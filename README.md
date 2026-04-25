@@ -105,12 +105,6 @@ android/app/google-services.json
 
 ---
 
-## 📦 Download do APK
-
-> (Adicione aqui o link do APK)
-
----
-
 ## 📄 Licença
 
 Este projeto é apenas para fins educacionais.
